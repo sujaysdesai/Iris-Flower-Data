@@ -1,2 +1,2 @@
 # Iris-Flower-Data
-Iris flower species segmentation using cluster analysis
+Iris flower species segmentation exploratory data analysis with K-means clustering using NumPy, Pandas, sklearn, Matplotlib, and Seaborn.
